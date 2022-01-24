@@ -4,5 +4,9 @@ body {
 }
 
 li a {
-    color: rgb(160, 150, 187);
+    color: rgb(0, 255, 42);
+}
+
+li a:visited {
+    color: rgb(194, 53, 18);
 }
